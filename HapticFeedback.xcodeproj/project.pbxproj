@@ -312,6 +312,7 @@
 				5658E9031F27A6F60020BDA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
